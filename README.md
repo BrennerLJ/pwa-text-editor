@@ -20,3 +20,5 @@ A simple text editor with syntax highlighting for PWA (Progressive Web App)
 
 ## dependencies
 
+## screenshot
+![Screenshot-pwa-text-editor](https://github.com/BrennerLJ/pwa-text-editor/assets/153338353/006f3783-c0de-47b8-b51d-d281ffb211b9)
